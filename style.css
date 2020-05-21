@@ -1,0 +1,16 @@
+input[type="radio"] {
+    color:gray;
+    margin:10px;
+    vertical-align: middle;
+    display: inline-block;
+  }
+  
+  label {
+    background-color:lightcoral;
+    padding: 5px;
+    border-radius: 10px;
+  }
+  
+  body {
+    background-color: lightskyblue;
+  }
